@@ -13,13 +13,7 @@ class Dashboard extends React.Component {
         <div class="container">
           <div class="row">
             <div class="col-4">
-              <h1 className='nombres'>Juan Carlos Navarro</h1>
-            </div>
-            <div class="col-4">
-              <h1 className='nombres'>Brandon Chavarría</h1>
-            </div>
-            <div class="col-4">
-              <h1 className='nombres'>Reggy Guevara</h1>
+              <h1 className='nombres'>Everth Reyes Espinoza</h1>
             </div>
           </div>
         </div>
